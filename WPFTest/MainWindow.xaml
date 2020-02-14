@@ -9,6 +9,11 @@
     <Grid>
         <StackPanel HorizontalAlignment="Left" Height="123" Margin="213,141,0,0" VerticalAlignment="Top" Width="367"
                     Background="Blue"/>
+        <Button x:Name="button" Content="Button" HorizontalAlignment="Left" Margin="348,308,0,0" VerticalAlignment="Top" Width="199"
+                Height="68">
+            
+        </Button>
+        <Border x:Name="border" CornerRadius="20" Background="Red" Width="100" Height="100" Margin="480,41,212,278" />
 
     </Grid>
 </Window>
